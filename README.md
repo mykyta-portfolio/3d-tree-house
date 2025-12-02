@@ -1,5 +1,14 @@
 # 3d-tree-house
 
+Magical tree house, proper 3D model.
+For the file, please contact me by email.
+
+## 🚀 Technologies
+- Blender
+- 3D model
+
+## 📸 Screenshots
+
 <img width="1027" height="700" alt="image" src="https://github.com/user-attachments/assets/53c2cf88-8d73-4808-879c-07d151d6ad4b" />
 
 <img width="1012" height="853" alt="image" src="https://github.com/user-attachments/assets/e1be4769-ae58-4e25-aadd-e8e681a404ae" />
